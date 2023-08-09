@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="btnGuardar">Guardar Registro</string>
+    <string name="h_nombre">Nombre</string>
+    <string name="h_telefono">Telefono</string>
+    <string name="h_correo">Correo</string>
+    <string name="m_nuevo">Nuevo Registro</string>
+</resources>
