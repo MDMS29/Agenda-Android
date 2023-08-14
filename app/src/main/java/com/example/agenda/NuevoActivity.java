@@ -1,12 +1,11 @@
 package com.example.agenda;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.agenda.db.DbContactos;
 
@@ -40,6 +39,6 @@ public class NuevoActivity extends AppCompatActivity {
     public void limpiar(){
         etNombre.setText("");
         etTelefono.setText("");
-        etTelefono.setText("");
+        etCorreo.setText("");
     }
 }
